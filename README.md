@@ -1,11 +1,6 @@
 # BIG_DATA_PROJECT
 
 ## 1️⃣주제 : 계절별 직장인 방문 음식점 업종   
-### 🎉Language & Libraries
-> Python      
-  pandas : 데이터 분석   
-  matplotlib & seaborn : 시각화   
-  데이터 출처 : 공공 데이터 포털( [https://www.data.go.kr/data/15010720/fileData.do](https://kdx.kr/data/view/32901) )
 
 ## 2️⃣ 선정 배경
 현대의 소비 트렌드와 시장 동향은 빠르게 변화하고 있습니다.<br>
